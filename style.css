@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+ .heading {
+    width: 100vw;
+    text-align: center;
+    background: black;
+    color: white;
+}
